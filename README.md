@@ -1,23 +1,20 @@
-# iki1uc – ROOT
+# MOD – Funktions‑Ebene (H‑Achse)
 
-## Zweck
-Dieses Repository bildet den Ursprung der gesamten Struktur.  
-Es stellt die öffentliche Identität des Systems bereit und dient  
-als Einstiegspunkt für alle Module, Achsen und Bereiche.
+MOD ist die zentrale Funktionsschicht des iki1uc‑Systems.  
+Es steuert Abläufe, Regeln, Prozesse und Modul‑Verknüpfungen.
 
-## Identität
-- CORE: iki1uc  
-- VERSION: 1.0  
-- CODE: RAW  
-- LAGE: ROOT / Creator / NC  
-- STATUS: Online  
+## Aufgaben
+- Systemlogik bereitstellen  
+- Prozesse definieren  
+- Modul‑Verknüpfungen steuern  
+- Datenflüsse koordinieren  
+- ROOT ↔ VISUAL verbinden  
 
-## Inhalt
-- index.html – öffentliche Landing‑Page  
-- ID.html – Identitätsdarstellung  
-- visual/ – Visualisierungen  
-- modules/ – Verlinkte System‑Repos  
+## Achse
+MOD gehört zur H‑Achse (Höhe).
 
-## Hinweis
-Dieses Repository enthält keine Engine‑Mechanismen.  
-Es dient ausschließlich der öffentlichen Darstellung und Struktur.
+## Position im System
+ROOT (T) → MOD (H) → VISUAL (B)
+
+## Status
+MOD ist eigenständig und aktiv.
